@@ -1,5 +1,3 @@
-Here's an optimized version of your README with improved structure, clarity, and technical accuracy:
-
 
 # UseOnce Pallet - Ticket Management System on Substrate
 
