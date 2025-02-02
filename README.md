@@ -44,7 +44,7 @@ impl<T: Config> Pallet<T> {
 ### Prerequisites
 - Rust 1.68+ (`rustup install stable`)
 - Node.js 16.x+ (LTS recommended)
-- Substrate dependencies ([official setup guide](https://docs.substrate.io/install/))
+
 
 ### Node Setup
 ```bash
